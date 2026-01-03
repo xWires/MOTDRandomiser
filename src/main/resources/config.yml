@@ -1,0 +1,15 @@
+motds:
+  # MOTDs that may be chosen at any time
+  anytime:
+    - "This is a MOTD!"
+    - "And another!"
+    - "Here's a third one!"
+
+  # MOTDs that will only appear on specific days (MM/DD format for dates)
+  timed:
+    01/01:
+      - "Happy new year!"
+    04/01:
+      - "April Fools!"
+    12/25:
+      - "Merry Christmas!"

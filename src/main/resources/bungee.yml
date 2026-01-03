@@ -1,0 +1,4 @@
+name: MOTDRandomiser
+version: '1.0-SNAPSHOT'
+author: xWires
+main: xyz.tangledwires.motdrandomiser.bungeecord.MOTDRandomiserBungeeCord

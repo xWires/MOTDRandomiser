@@ -1,0 +1,9 @@
+name: MOTDRandomiser
+version: '1.0-SNAPSHOT'
+author: xWires
+main: xyz.tangledwires.motdrandomiser.spigot.MOTDRandomiserSpigot
+api-version: '1.21'
+commands:
+  motdrandomiser:
+    usage: /<command> reload
+    permission: motdrandomiser.admin
